@@ -1,0 +1,6 @@
+engine: django.db.backends.postgresql_psycopg2
+name: company
+user: postgres
+password: postgres
+host: db 
+port: ''
